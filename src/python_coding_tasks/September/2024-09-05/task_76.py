@@ -18,4 +18,3 @@ class S(F):
 son = S()
 print(son.car()) # -> local members will always have preference
 
-#encapsulation
