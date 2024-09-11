@@ -1,0 +1,1 @@
+Allows a user to interactively review patches to add to the current commitText appended to the file Text appended to the file Text appended to the file Text appended to the file Text appended to the file
