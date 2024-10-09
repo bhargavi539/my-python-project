@@ -12,3 +12,4 @@ absolute_file_path = os.path.join("D:/QA_Courses/Python_automation_course/my-pyt
 file = open(absolute_file_path,'r')
 content = file.read()
 print(content)
+
